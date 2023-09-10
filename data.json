@@ -1,0 +1,11 @@
+[
+    { "nombre": "seisCuotas", "informacion": "Hasta 6 cuotas(50% Interes)." },
+    { "nombre": "doceCotas", "informacion": "Hasta 12 cuotas(100% Interes)." },
+    { "nombre": "dieciochoCuotas", "informacion": "Hasta 24 cuotas(300%)" },
+    { "nombre": "segurosVida", "informacion": "Seguros de vida personales" },
+    { "nombre": "segurosVivienda", "informacion": "Seguros de vivienda" },
+    { "nombre": "segurosAutomotor", "informacion": "Seguros Automotor" },
+    { "nombre": "bienesRaices", "informacion": "Inversiones en Bienes raices" },
+    { "nombre": "activos", "informacion": "Inversiones en Activos" }
+   
+]
